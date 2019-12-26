@@ -1,0 +1,77 @@
+## Basic Configuration
+
+baseurl = "https://shenoybr.github.io/hugo-goa-demo/"
+builddrafts = false
+canonifyurls = false
+languageCode = "de-de"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Da Hew"
+title = "Da Hew Test"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Da Hew"
+intro = "Test Seite"
+description = "Sammlung von IT-Informationen"
+authorimage = "oma.jpg"
+dateformat = "Dec 2, 2006" 
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "Windows 10, Postresql, Java, R, HewGer"
+
+## Social Accounts
+[params.social]
+github = "hewger"
+netlify = "hewger"
+twitter = "<username>"
+google = "<username>"
+googlescholar = "<account_id>"
+stackoverflow = "<username>"
+gitlab = "<username>"
+patreon = "<username>"
+youtube = "<channelid>"
+email = "you@example.com"
+
+## Extras
+[params.extra]
+copyright = "© 2016. Erlich Bachman. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = true
+highlightjs = true
+socialmarkup = true
+toc = true
+displayrssicon = true
+
+## Main Menu
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 100
+    url = "/about/"
+[[menu.main]]
+    name = "posts"
+    weight = 300
+    identifier = "posts"
+    url = "/posts/"
+[[menu.main]]
+    name = "kategorien"
+    identifier = "kategorien"
+    weight = 400
+    url = "/categories/"
+[[menu.main]]
+    name = "tags"
+    identifier = "tags"
+    weight = 400
+    url = "/tags/"

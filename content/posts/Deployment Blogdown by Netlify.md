@@ -9,7 +9,10 @@ showcomments: true
 showpagemeta: true
 slug: ""
 tags:
-- Blogdown, Netlify, Github, Hugo
+- Blogdown
+- Netlify
+- Github 
+- Hugo
 title: Blogdown Deployment mit Netlify
 ---
 

@@ -6,7 +6,7 @@ slug: test-posting
 categories:
   - R
 tags:
-  - Rnd
+  - Rmd
 comments: no
 showcomments: yes
 showpagemeta: yes

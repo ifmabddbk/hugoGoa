@@ -30,7 +30,7 @@ dateformat = "Dec 2, 2006"
 ## Site Meta Settings
 [params.meta]
 description = "Simple minimalist theme"
-keywords = "Windows 10, Postresql, Java, R, HewGer"
+keywords = ["Windows 10", "Postresql", "Java", "R", "HewGer"]
 
 ## Social Accounts
 [params.social]

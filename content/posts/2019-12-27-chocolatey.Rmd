@@ -15,3 +15,4 @@ showpagemeta: yes
 ## Intro
 
 Chocolatey ist ein Dienst, über den per Kommandozeile Programme installiert, deinstalliert und aktualisiert werden können. Dies bietet viele Möglichkeiten zu Automation.
+

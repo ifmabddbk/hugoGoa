@@ -120,7 +120,7 @@
   "url": "{{ .Site.Params.baseURL }}",
   "sameAs": [
     {{ with .Site.Params.social.twitter }}"https://twitter.com/{{.}}",{{ end }}
-    {{ with .Site.Params.social.googlescholar}}"https://scholar.google.com/citations?user={{.}}"{{ end }}
+    {{ with .Site.Params.social.googlescholar}}"https://scholar.google.com/citations?user={{.}}",{{ end }}
     {{ with .Site.Params.social.github }}"https://github.com/{{.}}",{{ end }}
     {{ with .Site.Params.social.stackoverflow }}"https://stackoverflow.com/users/{{.}}",{{ end }}
     {{ with .Site.Params.social.gitlab}}"https://gitlab.com/{{.}}",{{ end }}

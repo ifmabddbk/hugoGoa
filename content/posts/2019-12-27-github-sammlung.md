@@ -2,7 +2,7 @@
 title: Github Sammlung
 author: Da Hew
 date: '2019-12-27'
-slug: ""
+slug: 
 categories:
   - Github
 tags: []

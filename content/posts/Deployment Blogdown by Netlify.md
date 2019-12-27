@@ -1,6 +1,7 @@
 ---
 categories:
-- hugo, blogdown
+- hugo
+- blogdown
 comments: true
 date: "2019-12-26"
 description: Erstellung von Webseiten mit Hilfe von Blogdown, Github und Netlify

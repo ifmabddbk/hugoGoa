@@ -1,0 +1,17 @@
+---
+title: Chocolatey
+author: Da Hew
+date: '2019-12-27'
+slug: 
+categories:
+  - Windows 10
+  - Chocolatey
+tags: []
+comments: no
+showcomments: yes
+showpagemeta: yes
+---
+
+## Intro
+
+Chocolatey ist ein Dienst, über den per Kommandozeile Programme installiert, deinstalliert und aktualisiert werden können. Dies bietet viele Möglichkeiten zu Automation.

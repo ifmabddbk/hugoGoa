@@ -35,7 +35,6 @@ keywords = ["Windows 10", "Postresql", "Java", "R", "HewGer"]
 ## Social Accounts
 [params.social]
 github = "hewger"
-netlify = "hewger"
 twitter = "<username>"
 google = "<username>"
 googlescholar = "<account_id>"
